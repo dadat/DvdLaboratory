@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LDModels
+</name>
+</assembly>
+<members>
+<member name="F:LDModels.LDModels.TblCase.CaseIdField">
+	<summary>Identifies the CaseId entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblCase.ReportField">
+	<summary>Identifies the Report entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblCase.PriceField">
+	<summary>Identifies the Price entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblCase.Price2Field">
+	<summary>Identifies the Price2 entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblMon.PkmNameField">
+	<summary>Identifies the PkmName entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblMon.PkmTypeField">
+	<summary>Identifies the PkmType entity attribute.</summary>
+</member><member name="F:LDModels.LDModels.TblMon.PkmClassField">
+	<summary>Identifies the PkmClass entity attribute.</summary>
+</member><member name="T:LDModels.LDModels.LightSpeedModelDBCasesUnitOfWork">
+	<summary>
+ Provides a strong-typed unit of work for working with the LightSpeedModelDBCases model.
+ </summary>
+</member><member name="P:LDModels.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LDModels.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LDModels.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
